@@ -25,10 +25,13 @@ The us.json file is a TopoJSON topology containing three geometry collections: c
 
 Dataset provided in the dataset.txt file to create an interactive bar chart. Each line in the file represents population growth (per year) of an US city over the past five years, starting with total population of year 2012.
 
+![Alt text](images/interactive.png?raw=true "Choropleth")
 
 3. Heatmap -
 
 Dataset provided in heatmap.csv that describes the number and types of Charms cast by each of the wizarding houses across J.K. Rowling’s 7 Harry Potter books. Visualized the data using D3 heatmaps.
+
+![Alt text](images/heatmap.png?raw=true "Choropleth")
 
 4. Scatterplot - 
 
@@ -47,4 +50,8 @@ Feature 10: Wins and nominations
 Feature 11: Is good rating? ( value 1 means “good”, value 0 - “bad”)
 To learn more about IMDb, visit https://en.wikipedia.org/wiki/IMDb
 
+![Alt text](images/scatterplot.png?raw=true "Choropleth")
+
 5. Graph - 
+
+![Alt text](images/graph.png?raw=true "Choropleth")
