@@ -1,0 +1,28 @@
+.axis path,.axis line {
+	fill: none;
+	stroke: black;
+	shape-rendering: crispEdges;
+}
+.axis text {
+	font-family: sans-serif;
+    font-size: 11px;
+}
+
+.rcircle{
+    stroke: red;
+    fill: white;
+}
+
+.bcross{
+    stroke: blue;
+    fill: white;
+}
+
+.pagebreak { 
+    page-break-before: always; 
+} 
+
+.leg {
+    fill:white;
+    stroke: black;
+}
