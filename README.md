@@ -54,4 +54,4 @@ To learn more about IMDb, visit https://en.wikipedia.org/wiki/IMDb
 
 5. Graph - 
 
-![Alt text](images/graph.png?raw=true "Choropleth")
+![Alt text](images/graph.PNG?raw=true "Choropleth")
