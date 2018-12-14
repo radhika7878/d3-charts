@@ -19,7 +19,7 @@ a high_school and a middle_school_or_lower fields corresponding to the number of
 
 The us.json file is a TopoJSON topology containing three geometry collections: counties, states, and nation.
 
-![Alt text](blob/master/images/choropleth.png?raw=true "Choropleth")
+![Alt text](images/choropleth.png?raw=true "Choropleth")
 
 2. Interactive - 
 
